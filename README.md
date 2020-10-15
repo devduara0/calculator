@@ -11,7 +11,6 @@
 A look at the top-level files you'll see in this project.
 
     .
-    ├── src
     ├── script.js
     ├── styles.css
     ├── index.html
